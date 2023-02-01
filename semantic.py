@@ -1,6 +1,7 @@
 # Lesson SE-T38
 # Task 1
 
+# semantic.py--a demonstration of semantic similarities.
 
 # Import spacy and load language model
 import spacy
@@ -54,7 +55,6 @@ print()
 
 
 # Working with sentences
-
 print('''
         ---Working with sentences---
                                     ''')
