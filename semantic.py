@@ -75,5 +75,4 @@ print()
 for sentence in sentences:
     similarity = nlp(sentence).similarity(model_sentence)
     print(" ", sentence, "-", similarity)
-
 print()
