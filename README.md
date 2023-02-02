@@ -1,2 +1,2 @@
-# Semantic-Similarities-NLP-
+# Semantic-Similarities-NLP
 Bootcamp Task
